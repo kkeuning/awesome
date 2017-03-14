@@ -72,7 +72,7 @@
 * [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
 * [go-candyjs](https://github.com/mcuadros/go-candyjs) - fully transparent bridge between Go and the JavaScript
 * [go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules  starter kit
-* [jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
+* [jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for go
 * [go-saml](https://github.com/RobotsAndPencils/go-saml) - A just good enough SAML client library written in Go.
 * [gotv-example](https://github.com/nilslice/gotv-example) - example project built for an instructional video feb. 2 2017
 * [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
