@@ -211,9 +211,10 @@
 * [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 * [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - A Go (golang) package that provides an idiomatic way of data validation. It supports configurable and extensible validation rules (validators) that are coded in normal language constructs instead of mysterious and error-prone struct tags.
 * [panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
+* [passgo](https://github.com/ejcx/passgo) - Simple golang password manager.
 * [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-* [pflag](https://github.com/ogier/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 * [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+* [pflag](https://github.com/ogier/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 * [pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 * [pick](https://github.com/bndw/pick) - A secure and easy-to-use password manager for macOS and Linux
 * [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -262,6 +263,7 @@
 * [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
 * [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
 * [webhooks](https://github.com/go-playground/webhooks) - :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket and GitLab
+* [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 * [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 * [xo](https://github.com/xo/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 * [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
@@ -328,8 +330,8 @@
 * [react-redux-axios-example](https://github.com/oviava/react-redux-axios-example) - Example async data fetch with spinner
 * [react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 * [react-redux-jwt-auth-example](https://github.com/joshgeller/react-redux-jwt-auth-example) - Sample project showing possible authentication flow using React, Redux, React-Router, and JWT
-* [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 * [react-redux-starter-kit](https://github.com/olegakbarov/react-redux-starter-kit) - My best-practices-included universal frontend starter kit
+* [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 * [react-redux-universal-hot-example](https://github.com/bertho-zero/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using react, redux, express and feathers
 * [react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 * [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS
