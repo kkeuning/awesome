@@ -1,9 +1,8 @@
 
 ## Contents
-- [](#)
 - [C](#c)
-- [C#](#c#)
-- [C++](#c++)
+- [C#](#csharp)
+- [C++](#cpp)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -28,16 +27,19 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [ZIL](#zil)
-
-## 
-
+- [AWS](#aws)
+- [Containers](#containers)
+- [Database](#database)
+- [S3](#s3)
+- [Storage](#storage)
+ 
 ## C
 * [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 
-## C#
+## CSharp
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
-## C++
+## Cpp
 * [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 * [Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
 * [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -519,3 +521,27 @@
 
 ## ZIL
 * [zork1](https://github.com/historicalsource/zork1) - Zork I (Microcomputer Version) by Infocom
+
+## AWS
+* [awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
+* [graffiti-monkey](https://github.com/Answers4AWS/graffiti-monkey) - Goes around tagging things
+* [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+
+## Containers
+* [dvm](https://github.com/howtowhale/dvm) - Docker Version Manager
+* [inlets-operator](https://github.com/inlets/inlets-operator) - Get a LoadBalancer for any Kubernetes cluster
+* [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+* [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management  * [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+
+## Database
+* [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+* [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+* [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+
+## S3
+* [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+* [minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
+
+## Storage
+* [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+* [minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
