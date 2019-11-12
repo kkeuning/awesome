@@ -531,7 +531,8 @@
 * [dvm](https://github.com/howtowhale/dvm) - Docker Version Manager
 * [inlets-operator](https://github.com/inlets/inlets-operator) - Get a LoadBalancer for any Kubernetes cluster
 * [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-* [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management  * [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+* [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management  
+* [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 
 ## Database
 * [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
